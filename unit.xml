@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<testsuite name="Chrome 92.0.4515 (Mac OS X 10.15.7)" package="unit" timestamp="2021-08-04T20:26:55" id="0" hostname="LOH085W201LHTD6.cardinalhealth.net" tests="9" errors="0" failures="0" time="0.222">
+  <properties>
+    <property name="browser.fullName" value="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Safari/537.36"/>
+  </properties>
+  <testcase name="LengthConverter Typing value in Kilometres field gets correct Kilometres value" time="0.068" classname=".LengthConverter"/>
+  <testcase name="LengthConverter Typing value in Kilometres field gets correct Metres value" time="0.018" classname=".LengthConverter"/>
+  <testcase name="LengthConverter Typing value in Kilometres field gets correct Centimetres value" time="0.017" classname=".LengthConverter"/>
+  <testcase name="LengthConverter Typing value in Metres field gets correct Centimetres value" time="0.016" classname=".LengthConverter"/>
+  <testcase name="LengthConverter Typing value in Metres field gets correct Metres value" time="0.016" classname=".LengthConverter"/>
+  <testcase name="LengthConverter initial UI is rendered as exptected" time="0.017" classname=".LengthConverter"/>
+  <testcase name="LengthConverter If input is not empty and dropdown is changed, input field should reflect new value" time="0.029" classname=".LengthConverter"/>
+  <testcase name="LengthConverter Typing value in Metres field gets correct Kilometres value" time="0.019" classname=".LengthConverter"/>
+  <testcase name="LengthConverter Perform series of operations" time="0.022" classname=".LengthConverter"/>
+  <system-out>
+    <![CDATA[
+]]>
+  </system-out>
+  <system-err/>
+</testsuite>
